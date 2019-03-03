@@ -1,0 +1,18 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "node Twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wschwab/node_pen/twitter-bot.git"
+  },
+  "author": "wschwab",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
